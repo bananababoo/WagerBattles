@@ -1,0 +1,4 @@
+name: WagerBattles
+version: '${project.version}'
+main: me.bananababoo.wagerbattles.WagerBattles
+api-version: '1.20'
